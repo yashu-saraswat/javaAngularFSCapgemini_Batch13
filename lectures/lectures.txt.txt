@@ -2,3 +2,5 @@ git
 version control system
 
 1. make a repo in github and local folder with same name
+2. open gitbash
+
